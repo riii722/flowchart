@@ -1,4 +1,4 @@
-package flowchart;
+package lesson1;
 
 public class Two {
 
